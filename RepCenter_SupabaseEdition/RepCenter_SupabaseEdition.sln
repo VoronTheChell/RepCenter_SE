@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepCenter_SupabaseEdition", "RepCenter_SupabaseEdition\RepCenter_SupabaseEdition.csproj", "{4787AE32-4C0B-4480-9393-4A34ADC4A931}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RepCenter Installer", "RepCenter Installer\RepCenter Installer.vdproj", "{BBD791E8-FC17-421D-A245-57D68252AE86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4787AE32-4C0B-4480-9393-4A34ADC4A931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4787AE32-4C0B-4480-9393-4A34ADC4A931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4787AE32-4C0B-4480-9393-4A34ADC4A931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4787AE32-4C0B-4480-9393-4A34ADC4A931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD791E8-FC17-421D-A245-57D68252AE86}.Debug|Any CPU.ActiveCfg = Debug
+		{BBD791E8-FC17-421D-A245-57D68252AE86}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD009CF5-E541-47B0-AB24-8F7CF116F309}
+	EndGlobalSection
+EndGlobal
